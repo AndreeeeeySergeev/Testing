@@ -3,7 +3,7 @@
 
 веб‑сайта ru.wikipedia.org (4 теста)
 
-мобильного приложения Wikipedia для Android (5 тестов)
+мобильного приложения Wikipedia для Android
 
 ## Стек технологий
 - Java 11+
