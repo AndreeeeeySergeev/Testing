@@ -1,7 +1,7 @@
 # Testing Project
 Автоматизированные UI‑тесты для:
 
-веб‑сайта ru.wikipedia.org (4 теста)
+веб‑сайта ru.wikipedia.org
 
 мобильного приложения Wikipedia для Android
 
